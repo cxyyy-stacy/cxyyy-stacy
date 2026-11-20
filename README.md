@@ -1,16 +1,30 @@
-## Hi there 👋
+Hi, I’m Stacy! 👋
 
-<!--
-**cxyyy-stacy/cxyyy-stacy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Software Engineer | Python Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m passionate about technology and enjoy turning ideas into practical projects. I’m currently exploring software engineering through hands-on development and continuous learning.
+
+🚀 My Projects
+
+* Smart Expense Tracker — Expense tracking with automatic categorization.
+* Smart Wardrobe 5.0 — Digital wardrobe and weather-based outfit recommendations.
+* Real-time Chat App — A multi-user chat application powered by Streamlit and Supabase.
+
+🛠️ Tech Stack
+
+Python Streamlit Supabase GitHub APIs
+
+🌱 Currently Learning
+
+* Software Engineering
+* Python Development
+* Database Design
+* Problem Solving
+
+💡 My Philosophy
+
+Think. Build. Grow.
+
+Every project is a new opportunity to learn something.
