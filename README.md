@@ -1,30 +1,45 @@
-Hi, I’m Stacy! 👋
+👋 Hello, I’m Stacy
 
-Aspiring Software Engineer | Python Developer
+Aspiring Software Engineer
 
-Welcome to my GitHub!
+Turning ideas into projects, and projects into experience.
 
-I’m passionate about technology and enjoy turning ideas into practical projects. I’m currently exploring software engineering through hands-on development and continuous learning.
+⸻
 
-🚀 My Projects
+🚀 ABOUT ME
 
-* Smart Expense Tracker — Expense tracking with automatic categorization.
-* Smart Wardrobe 5.0 — Digital wardrobe and weather-based outfit recommendations.
-* Real-time Chat App — A multi-user chat application powered by Streamlit and Supabase.
+I’m passionate about technology and software development.
 
-🛠️ Tech Stack
+I enjoy exploring new ideas, building practical applications, and learning through hands-on projects.
 
-Python Streamlit Supabase GitHub APIs
+💻 MY PROJECTS
 
-🌱 Currently Learning
+01 · Smart Expense Tracker
 
-* Software Engineering
-* Python Development
-* Database Design
-* Problem Solving
+A Python-based tool for intelligent expense tracking and categorization.
 
-💡 My Philosophy
+02 · Smart Wardrobe 5.0
 
-Think. Build. Grow.
+A digital wardrobe with weather-based outfit recommendations.
 
-Every project is a new opportunity to learn something.
+03 · Real-time Chat App
+
+A multi-user messaging application built with Streamlit and Supabase.
+
+⸻
+
+🛠️ TECH STACK
+
+Python　Streamlit　Supabase　GitHub　APIs
+
+🌱 CURRENT FOCUS
+
+Software Engineering · Python Development · Database Design · Problem Solving
+
+⸻
+
+✨ MY MOTTO
+
+THINK. BUILD. GROW.
+
+Every project is a step forward.
